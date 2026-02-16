@@ -1,0 +1,22 @@
+## tout dossier .vagrant depuis la racine de la copie
+.vagrant/
+## le dossier .vagrant à la racine //
+# /.vagrant/
+infos.txt
+debug.log
+## exception à une règle précédente SAUF règle de type "dossier"
+# !target/debug.log
+# !.vagrant/debug.log
+[sS]amples/
+
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+*.db
+.pytest_cache/
+reports/
+.coverage
+
+

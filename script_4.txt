@@ -1,8 +1,8 @@
 # script 4
 
 
-function_4_4(){
-    code4_4 '
+function_4_1(){
+    code4_1 '
     Lorem ipsum dolor sit amet, consectetur adipiscing elit
     Sed do eiusmod tempor incididunt ut labore et
     bonne réponse'

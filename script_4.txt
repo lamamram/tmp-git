@@ -3,7 +3,7 @@
 
 function_4_1(){
     code4_1 '
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    Lorem ipsum dolor new modif sit amet, consectetur adipiscing elit
     Sed do eiusmod tempor incididunt ut labore et
     bonne réponse'
 }

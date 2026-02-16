@@ -14,6 +14,6 @@ function_1_1(){
 function_1_2(){
     code1_2 '
     Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    Sed do
+    Sed do truc
     '
 }

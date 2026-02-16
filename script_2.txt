@@ -1,0 +1,9 @@
+# script 2
+
+
+function_2_2(){
+    code2_2 '
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    Sed do eiusmod tem
+    '
+}

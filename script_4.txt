@@ -1,17 +1,9 @@
 # script 4
 
 
-function_4_1(){
-    code4_1 '
+function_4_4(){
+    code4_4 '
     Lorem ipsum dolor sit amet, consectetur adipiscing elit
     Sed do eiusmod tempor incididunt ut labore et
     bonne réponse'
-}
-
-function_4_2(){
-    code4_2 '
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    Sed do modif eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veni
-    '
 }

@@ -10,3 +10,9 @@ function_5_1(){
     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia d
     '
 }
+
+function_5_good(){
+    code5_good '
+    good CODE
+    '
+}

@@ -14,7 +14,7 @@ function_3_2(){
     code3_2 '
     Lorem ipsum dolor sit amet, consectetur adipiscing elit
     Sed do modif eiusm machin ...
-    ekrfelrkfn
+    ekrfelrkfn erflre,freml
     '
 }
 

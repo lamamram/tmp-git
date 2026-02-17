@@ -1,9 +1,10 @@
 # script 4
-
+import script_f2
 
 
 function_4_4(){
     code4_4 '
+    f2_1()
     Lorem ipsum dolor new modif sit amet, consectetur adipiscing elit
     Sed do eiusmod tempor incididunt ut labore et
     bonne réponse'

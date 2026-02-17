@@ -11,3 +11,12 @@ function_f4_1(){
     ferknferklnferlkn
     '
 }
+
+function_f4_1_2(){
+    codef4_1_2 '
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in repr
+    '
+}

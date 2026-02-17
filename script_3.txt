@@ -13,7 +13,7 @@ function_3_1(){
 function_3_2(){
     code3_2 '
     Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    Sed do modif eiusm machin ...
+    Sed do modif eiusm  MODIF machin ...
     ekrfelrkfn erflre,freml
     '
 }
